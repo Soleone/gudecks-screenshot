@@ -1,0 +1,15 @@
+{
+  "name": "website-screenshots",
+  "version": "0.0.1",
+  "description": "Take screenshots of websites",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Soleone",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^21.3.6"
+  }
+}
