@@ -1,7 +1,10 @@
+## Usage
+
 1. Install operating system dependencies (see below)
 2. `npm install`
 3. `npm run start`
-4. Should create new file screenshot06.png in current folder.
+4. Visit localhost:3000/<YOUR_DECK_CODE> to dynamically render your deck
+
 
 Requires the following packages to be installed in Ubuntu 20:
 
